@@ -396,3 +396,8 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-01-11 01:12:50.957
 !MESSAGE executing callback sts4.classpath.qfMnkUlL SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 2 2 2023-01-11 01:14:34.713
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2023-01-11 01:14:34.713
+!MESSAGE The project description file (.project) for 'typing speed' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
